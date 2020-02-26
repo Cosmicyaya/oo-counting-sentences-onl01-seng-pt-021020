@@ -31,6 +31,3 @@ end
     "One, two, three.".count_sentences
   end
 end
-
-  end
-end
