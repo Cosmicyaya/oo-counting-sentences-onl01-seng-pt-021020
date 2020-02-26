@@ -28,7 +28,7 @@ end
 
 
   def count_sentences
-    
+    "one"
 
   end
 end
