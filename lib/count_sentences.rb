@@ -13,6 +13,7 @@ class String
   end
 
   def exclamation?
+    "YOU OUUGHT NOT HAVE DONE THAT!".end_with?("!")
 
   end
 
