@@ -8,6 +8,7 @@ class String
   end
 
   def question?
+    "Where is le beef?".end_with?("?")
 
   end
 
