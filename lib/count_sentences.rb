@@ -3,6 +3,7 @@ require 'pry'
 class String
 
   def sentence?
+    "For glory.".end_with?(".")
     
   end
 
