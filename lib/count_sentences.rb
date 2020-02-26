@@ -28,6 +28,4 @@ end
 
 
   def count_sentences
-    "One, two, three.".count_sentences
-  end
-end
+    
